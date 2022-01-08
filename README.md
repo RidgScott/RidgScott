@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @RidgScott
+- 👀 I’m interested the FEniCS Project and its applications to technical simulation
